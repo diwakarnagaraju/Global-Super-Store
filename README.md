@@ -38,3 +38,25 @@ This Power BI project analyzes the Global Super Store dataset, consisting of 51,
 ---
 
 ### **Repository Structure**
+Global_Super_Store_Dashboard/
+│
+├── Dataset/
+│   └── Global_Super_Store.xlsx               # Original dataset used in the project
+│
+├── Screenshots/
+│   ├── Dashboard_Main_Page.png              # Screenshot of the main dashboard
+│   ├── KPI_Visualizations.png               # Screenshot of KPI visualizations
+│   ├── Sales_By_Region.png                  # Screenshot of sales by region
+│   └── Drill_Through_Page.png               # Screenshot of drill-through page
+│
+├── Scripts/
+│   ├── Calendar_Table_DAX.txt               # DAX script for creating the Calendar table
+│   ├── KPI_Measures_DAX.txt                 # DAX scripts for KPIs like Total Returns, Return Rate, etc.
+│   └── Data_Cleaning_Steps.txt              # Steps and logic used for cleaning the dataset
+│
+├── Global_Super_Store.pbix                  # Power BI file containing the dashboard
+│
+├── LICENSE                                  # License file (e.g., MIT License)
+│
+└── README.md                                # Documentation file for the repository
+
