@@ -39,7 +39,6 @@ This Power BI project analyzes the Global Super Store dataset, consisting of 51,
 
 ### **Repository Structure**
 Global_Super_Store_Dashboard/
-- │
 - ├── Dataset/
 - │   └── Global_Super_Store.xlsx               # Original dataset used in the project
 - │
@@ -59,4 +58,29 @@ Global_Super_Store_Dashboard/
 - ├── LICENSE                                  # License file (e.g., MIT License)
 - │
 - └── README.md                                # Documentation file for the repository
+
+
+---
+
+### **How to Use**
+1. Download or clone this repository.  
+2. Open the `Global Super Store.pbix` file in Power BI Desktop.  
+3. Explore the interactive dashboards and visualizations using slicers and filters.  
+
+---
+
+### **Key Insights**
+- Identified top-performing regions and markets contributing to overall sales and profit.  
+- Highlighted the top 5 products by profit and loss, aiding inventory optimization.  
+- Improved operational efficiency by visualizing shipment and delivery metrics.
+
+---
+
+### **Contributing**
+Feel free to fork this repository and submit pull requests with improvements or new features. Contributions are always welcome!
+
+---
+
+### **License**
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
