@@ -1,1 +1,40 @@
-# Global-Super-Store
+# **Global Super Store Dashboard**
+
+### **Project Overview**
+This Power BI project analyzes the Global Super Store dataset, consisting of 51,291 rows and 24 columns, to provide actionable insights into sales, profit, shipping, and customer trends. The dashboard is designed to support decision-making with interactive visualizations, Key Performance Indicators (KPIs), and dynamic filtering.
+
+---
+
+### **Features**
+- **Data Transformation**:  
+  - Processed and cleaned the dataset using Power Query for accuracy and consistency.  
+  - Created a **Calendar Table** using DAX for time-based analysis.  
+
+- **Dynamic Slicers**:  
+  - Added slicers for Market, Region, Country, Category, Sub-category, Product Name, and Date (Year, Month, Day).  
+
+- **Key Performance Indicators (KPIs)**:  
+  - Total Sales, Total Profit, Total Orders, Return Rate, Average Delivery Days, Total Discounts, and Shipping Costs.  
+  - Applied conditional formatting (red accent bars) for Return Rate and Total Returns.  
+
+- **Advanced Visualizations**:  
+  - Maps for Country, State, and City.  
+  - Pie Charts for Sales by Segment, Shipment Mode, and Market.  
+  - Line Charts for Sales and Profit trends over time.  
+  - Bar Charts for Top 5 Products by Profit/Loss and Top 5 Customers by Profit.  
+  - Drill-through pages for detailed performance analysis.  
+
+- **Interactive Navigation**:  
+  - Implemented a "View Sales & Performance" button for seamless page switching.  
+
+---
+
+### **Technical Details**
+- **Tools Used**: Power BI, Power Query, DAX  
+- **Dataset**: Global Super Store (51,291 rows, 24 columns)  
+- **Visualization Types**: Map, Line Chart, Pie Chart, Bar Graph, Matrix Table, Clustered Column Chart  
+- **Key Metrics**: Sales, Profit, Quantity, Discount, Shipping Cost, Return Rate, Delivery Time  
+
+---
+
+### **Repository Structure**
