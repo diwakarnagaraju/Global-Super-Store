@@ -61,8 +61,8 @@ Global_Super_Store_Dashboard/
 
 
 ---
-
-![Sales & Performances]([relative/path/to/image.png](https://github.com/diwakarnagaraju/Global-Super-Store/blob/6f63f32509371daf3fc3e7376ff26b3c7e9cb4d7/Sales%20%26%20Performaces.png))
+- Sales % perfomances of soutern Europe Market , Apple Smart Phone Full Size in year 2015 
+![Sales & Performances](https://github.com/diwakarnagaraju/Global-Super-Store/blob/6f63f32509371daf3fc3e7376ff26b3c7e9cb4d7/Sales%20%26%20Performaces.png)
 
 
 ### **How to Use**
