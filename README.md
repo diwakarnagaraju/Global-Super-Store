@@ -61,8 +61,17 @@ Global_Super_Store_Dashboard/
 
 
 ---
-- Sales % perfomances of soutern Europe Market , Apple Smart Phone Full Size in year 2015 
+- Sales & perfomances of soutern Europe Market , Apple Smart Phone Full Size in year 2015
+  
 ![Sales & Performances](https://github.com/diwakarnagaraju/Global-Super-Store/blob/6f63f32509371daf3fc3e7376ff26b3c7e9cb4d7/Sales%20%26%20Performaces.png)
+
+- Sales Charts Views
+
+![Charts View of Sales](https://github.com/diwakarnagaraju/Global-Super-Store/blob/442cda62d84bd45a51ce14501d20527d61ec69b5/Sales%20Through%20Charts.png)
+
+- Sales Detailed view through Drill Through of Total Sales by Market
+
+![Drill Through](https://github.com/diwakarnagaraju/Global-Super-Store/blob/442cda62d84bd45a51ce14501d20527d61ec69b5/Drilled%20through.png)
 
 
 ### **How to Use**
